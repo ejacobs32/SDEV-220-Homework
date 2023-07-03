@@ -1,0 +1,8 @@
+11.1
+https://github.com/ejacobs32/SDEV-220-Homework/blob/main/M04/M04%20jn/11.1.ipynb
+
+11.2
+https://github.com/ejacobs32/SDEV-220-Homework/blob/main/M04/M04%20jn/11.2.ipynb
+
+16.8
+https://github.com/ejacobs32/SDEV-220-Homework/blob/main/M04/M04%20jn/16.8.ipynb
