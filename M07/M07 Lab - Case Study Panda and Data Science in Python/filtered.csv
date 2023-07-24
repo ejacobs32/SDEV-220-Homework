@@ -1,0 +1,68 @@
+,#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+0,6,Charizard,Fire,Flying,534,78,84,78,109,85,100,1,False
+1,6,CharizardMega Charizard Y,Fire,Flying,634,78,104,78,159,115,100,1,False
+2,18,Pidgeot,Normal,Flying,479,83,80,75,70,70,101,1,False
+3,18,PidgeotMega Pidgeot,Normal,Flying,579,83,80,80,135,80,121,1,False
+4,42,Golbat,Poison,Flying,455,75,80,70,65,75,90,1,False
+5,49,Venomoth,Bug,Poison,450,70,65,60,90,75,90,1,False
+6,123,Scyther,Bug,Flying,500,70,110,80,55,80,105,1,False
+7,130,Gyarados,Water,Flying,540,95,125,79,60,100,81,1,False
+8,142,Aerodactyl,Rock,Flying,515,80,105,65,60,75,130,1,False
+9,142,AerodactylMega Aerodactyl,Rock,Flying,615,80,135,85,70,95,150,1,False
+10,144,Articuno,Ice,Flying,580,90,85,100,95,125,85,1,True
+11,145,Zapdos,Electric,Flying,580,90,90,85,125,90,100,1,True
+12,146,Moltres,Fire,Flying,580,90,100,90,125,85,90,1,True
+13,149,Dragonite,Dragon,Flying,600,91,134,95,100,100,80,1,False
+14,164,Noctowl,Normal,Flying,442,100,50,50,76,96,70,2,False
+15,168,Ariados,Bug,Poison,390,70,90,70,60,60,40,2,False
+16,169,Crobat,Poison,Flying,535,85,90,80,70,80,130,2,False
+17,189,Jumpluff,Grass,Flying,460,75,55,70,55,95,110,2,False
+18,205,Forretress,Bug,Steel,465,75,90,140,60,60,40,2,False
+19,212,Scizor,Bug,Steel,500,70,130,100,55,80,65,2,False
+20,212,ScizorMega Scizor,Bug,Steel,600,70,150,140,65,100,75,2,False
+21,214,Heracross,Bug,Fighting,500,80,125,75,40,95,85,2,False
+22,214,HeracrossMega Heracross,Bug,Fighting,600,80,185,115,40,105,75,2,False
+23,249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,2,True
+24,250,Ho-oh,Fire,Flying,680,106,130,90,110,154,90,2,True
+25,284,Masquerain,Bug,Flying,414,70,60,62,80,82,60,3,False
+26,334,Altaria,Dragon,Flying,490,75,70,90,70,105,80,3,False
+27,357,Tropius,Grass,Flying,460,99,68,83,72,87,51,3,False
+28,373,Salamence,Dragon,Flying,600,95,135,80,110,80,100,3,False
+29,373,SalamenceMega Salamence,Dragon,Flying,700,95,145,130,120,90,120,3,False
+30,384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,True
+31,384,RayquazaMega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,True
+32,398,Staraptor,Normal,Flying,485,85,120,70,50,60,100,4,False
+33,402,Kricketune,Bug,,384,77,85,51,55,51,65,4,False
+34,414,Mothim,Bug,Flying,424,70,94,50,94,50,66,4,False
+35,416,Vespiquen,Bug,Flying,474,70,80,102,80,102,40,4,False
+36,425,Drifloon,Ghost,Flying,348,90,50,34,60,44,70,4,False
+37,426,Drifblim,Ghost,Flying,498,150,80,44,90,54,80,4,False
+38,430,Honchkrow,Dark,Flying,505,100,125,52,105,52,71,4,False
+39,441,Chatot,Normal,Flying,411,76,65,45,92,42,91,4,False
+40,468,Togekiss,Fairy,Flying,545,85,50,95,120,115,80,4,False
+41,469,Yanmega,Bug,Flying,515,86,76,86,116,56,95,4,False
+42,472,Gliscor,Ground,Flying,510,75,95,125,45,75,95,4,False
+43,492,ShayminSky Forme,Grass,Flying,600,100,103,75,120,75,127,4,True
+44,521,Unfezant,Normal,Flying,488,80,115,80,65,55,93,5,False
+45,542,Leavanny,Bug,Grass,500,75,103,80,70,80,92,5,False
+46,558,Crustle,Bug,Rock,475,70,95,125,65,75,45,5,False
+47,561,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97,5,False
+48,567,Archeops,Rock,Flying,567,75,140,65,112,65,110,5,False
+49,581,Swanna,Water,Flying,473,75,87,63,87,63,98,5,False
+50,589,Escavalier,Bug,Steel,495,70,135,105,60,105,20,5,False
+51,596,Galvantula,Bug,Electric,472,70,77,60,97,60,108,5,False
+52,617,Accelgor,Bug,,495,80,70,40,100,60,145,5,False
+53,627,Rufflet,Normal,Flying,350,70,83,50,37,50,60,5,False
+54,628,Braviary,Normal,Flying,510,100,123,75,57,75,80,5,False
+55,629,Vullaby,Dark,Flying,370,70,55,75,45,65,60,5,False
+56,630,Mandibuzz,Dark,Flying,510,110,65,105,55,95,80,5,False
+57,637,Volcarona,Bug,Fire,550,85,60,65,135,105,100,5,False
+58,642,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,True
+59,642,ThundurusTherian Forme,Electric,Flying,580,79,105,70,145,80,101,5,True
+60,645,LandorusIncarnate Forme,Ground,Flying,600,89,125,90,115,80,101,5,True
+61,645,LandorusTherian Forme,Ground,Flying,600,89,145,90,105,80,91,5,True
+62,649,Genesect,Bug,Steel,600,71,120,95,120,95,99,5,False
+63,663,Talonflame,Fire,Flying,499,78,81,71,74,69,126,6,False
+64,666,Vivillon,Bug,Flying,411,80,52,50,90,50,89,6,False
+65,701,Hawlucha,Fighting,Flying,500,78,92,75,74,63,118,6,False
+66,717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,6,True
